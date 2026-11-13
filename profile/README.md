@@ -1,13 +1,5 @@
-Company introduction
+---
 
+## Approval Workflow Test
 
-
-EAP technology resources
-
-
-
-MAP and Wearables (future sections)
-
-
-
-Developer documentation and code examples
+This is a temporary test to validate the Datwyler GitHub content approval process.
